@@ -1,0 +1,3 @@
+# Project exclude paths
+/springboot_web_quickstart/springboot_web_quickstart/target/
+/springboot_web_req_resp/target/

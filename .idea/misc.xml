@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../itheima_maven_project01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../BaiduNetdiskDownload/黑马2023新版JavaWeb开发教程/资料/day04-Maven-SpringBootWeb入门/资料/Maven/04. 依赖管理-准备工作/maven-projectA/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../BaiduNetdiskDownload/黑马2023新版JavaWeb开发教程/资料/day04-Maven-SpringBootWeb入门/资料/Maven/04. 依赖管理-准备工作/maven-projectB/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../BaiduNetdiskDownload/黑马2023新版JavaWeb开发教程/资料/day04-Maven-SpringBootWeb入门/资料/Maven/04. 依赖管理-准备工作/maven-projectC/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_maven_project01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web_quickstart/springboot_web_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../BaiduNetdiskDownload/黑马2023新版JavaWeb开发教程/资料/day04-Maven-SpringBootWeb入门/资料/SpringbootWeb/01. HTTP协议/http-server-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web_req_resp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web_req_resp/springboot_test/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot_web_req_resp/springboot_test/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
